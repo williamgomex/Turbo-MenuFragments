@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Turbo </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="mhoteles">Hoteles</string>
+    <string name="mbares">Bares</string>
+    <string name="minformacion">Info Turistica</string>
+    <string name="mdemografia">Demografía</string>
+
+
+    <string name="acercade">Acerca de...</string>
+    <string name="acercadetx">\nTurismo Turbo \nAplicación informativa sobre el turismo en turbo \nDesarrollada por William Gómez Ortega \n</string>
+
+    <string name="hotel1tit">Hotel Costa del Sol</string>
+    <string name="hotel1text">\nDirección: Carrera13 Nro101 79
+                    \nTeléfono: 827 46 33 Celular:
+                    \nCel: 313 644 67 79
+                    \nTurbo Antioquia- Colombia.</string>
+    <string name="hotel2tit">Hotel Castilla de Oro</string>
+    <string name="hotel2text">Hotel Castilla de Oro existe para satisfacer las necesidades de todas
+        las personas que buscan descansar, hacer negocios y divertirse.Ofrecemos el servicio de
+        alojamiento, alimentación y bebidas, con los más altos niveles de servicio.</string>
+    <string name="hotel3tit">Simona del Mar</string>
+    <string name="hotel3text">Un Centro Ecoturistico especializado en los servicios de restaurante
+        gourmet con énfasis en comida de mar, hospedaje con calidad internacional y realización de
+        eventos; satisfaciendo a nuestros clientes en la recreación, la cultura y el ocio; acorde
+        con nuestras políticas ambientales y optimización de los recursos.</string>
+    <string name="bar1tit">Tilapias Parrilla Bar</string>
+    <string name="bar2tit">Discoteca X-tasis</string>
+    <string name="bar3tit">Bar - Simona del Mar</string>
+    <string name="bar3text">Un buen coctel es una buena compañía…\nPara disfrutar el sol de la mañana
+        o el atardecer del golfo de Urabá.</string>
+    <string name="bar2text">La mejor atencion, musica y ambiente de la zona de turbo y uraba.
+        \nXtasis Discotek, Tu rumba sin limites.
+        \nMunicipio de Turbo.
+        \nCll 104 # 16 - 18
+        \nZona Rosa Turbo
+        \nTel: 8277558</string>
+    <string name="bar1text">Km 1 Va Carepa - Chigorodó
+                            \nTeléfono(s): (57) (4) 8237856</string>
+    <string name="demotit">Demografía</string>
+    <string name="demotext">Población Total: 135.967 hab. (2009)3
+    \nPoblación Urbana: 53.461
+    \nPoblación Rural: 82.506
+    \nAlfabetismo: 81.0% (2005)4
+    </string>
+    <string name="demo1text">Zona urbana: 87.2%\nZona rural: 77.0%</string>
+    <string name="demo2text">Grupos étnicos\nSegún las cifras presentadas por el DANE del censo 2005, la composición étnica del municipio es:
+    \n</string>
+    <string name="demo3text">Afrocolombianos (77%)</string>
+    <string name="demo4text">Mestizos y blancos (21%)</string>
+    <string name="demo5text">Indígenas (2%)</string>
+    <string name="tur1tit">Parque Nacional Los Katíos</string>
+    <string name="tur1text">Constituye un parque binacional con el parque Nacional del Darién en
+        Panamá, fue declarado Patrimonio de la Humanidad por la UNESCO, forma parte del llamado
+        Tapón del Darién. Es de gran riqueza en vegetación y Fauna, en el se encuentran diversas
+        especies animales como manatíes, dantas, tigres, nutrias, algunas de ellas en vía de
+        extinción. También se encuentran gran variedad de aves y de peces.
+
+        El Parque ofrece servicios de alojamiento, alimentación y guías. Se pueden visitar en él:
+        Los Saltos de Filupo, Fendal y La  Tigra, Las Ciénagas de Cacarica y Tumaradó.</string>
+    <string name="tur2tit">Bahía Colombia</string>
+    <string name="tur2text">Santuario natural de aves con migraciones provenientes de sur y
+        Norteamérica, criadero natural de ostras.</string>
+    <string name="tur3tit">Corregimiento de Bocas del Atrato</string>
+    <string name="tur3text">Sitio de parada obligatoria para quienes les gustan los platos típicos
+    de frutos del mar y del río preparados por los pescadores que lo habitan.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

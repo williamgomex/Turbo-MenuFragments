@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.zoomcreativo.turbo_menufragments.Bares"
+    android:background="@color/black">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/bar1tit"
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/tilipias"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/bar1text"
+                    />
+
+            </LinearLayout>
+
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/bar2tit"
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/discotecaextasis"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/bar2text"
+                    />
+
+            </LinearLayout>
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/bar3tit"
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/simona"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/bar3text"
+                    />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/mhot" android:title="@string/mhoteles"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mbar" android:title="@string/mbares"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/minfo" android:title="@string/minformacion"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mdemo" android:title="@string/mdemografia"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/macerca" android:title="@string/acercade"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

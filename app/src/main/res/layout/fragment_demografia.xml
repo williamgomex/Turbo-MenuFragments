@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zoomcreativo.turbo_menufragments.Demografia"
+    android:background="@color/black">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/demotit"
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/demografia"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demotext"
+                    />
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demo1text"
+                    />
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demo2text"
+                    />
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demo3text"
+                    />
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demo4text"
+                    />
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/demo5text"
+                    />
+
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

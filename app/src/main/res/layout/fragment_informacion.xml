@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zoomcreativo.turbo_menufragments.Informacion"
+    android:background="@color/black">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/tur1tit"
+
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/katios"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/tur1text"
+                    />
+
+            </LinearLayout>
+
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/tur2tit"
+                />
+
+
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/bahia"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/tur2text"
+                    />
+
+            </LinearLayout>
+
+            <TextView
+                style="@style/textviewtitle"
+                android:text="@string/tur3tit"
+                />
+
+            <ImageView
+                style="@style/imagestyle"
+                android:src="@drawable/atratocorre"/>
+
+
+            <LinearLayout
+                style="@style/linearlayoutv">
+
+                <TextView
+                    style="@style/textviewtext"
+                    android:text="@string/tur3text"
+                    />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>
