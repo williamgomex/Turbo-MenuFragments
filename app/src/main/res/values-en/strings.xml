@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turbo</string>
+
+
+    <string name="acercadetx">Tourism Turbo \nInformative app about tourism in Turbo \nDeveloped by William Gómez Ortega </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="acercade">About...</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hotel1tit">Hotel Costa del Sol</string>
+    <string name="hotel1text">\nAddress: Carrera13 Nro101 79
+                    \nTelephone: 827 46 33
+                    \nCel: 313 644 67 79
+                    \nTurbo Antioquia- Colombia.</string>
+    <string name="hotel2tit">Hotel Castilla de Oro</string>
+    <string name="hotel2text">Hotel Castilla de Oro exists to meet the needs of all those seeking rest, do business and have fun. We offer accommodation, food and beverages, with the highest levels of service.</string>
+    <string name="hotel3tit">Simona del Mar</string>
+    <string name="hotel3text">An ecotourism center services specializing in gourmet restaurant with emphasis on seafood, international quality hosting and conducting events; satisfying our customers in the recreation, culture and leisure; in line with our environmental policies and resource optimization.</string>
+    <string name="bar1tit">Tilapias Parrilla Bar</string>
+    <string name="bar2tit">Discoteca X-tasis</string>
+    <string name="bar3tit">Bar - Simona del Mar</string>
+    <string name="bar3text">A good cocktail is a good company ... \nfor enjoy the morning sun or the evening of the Gulf of Uraba.</string>
+    <string name="bar2text">The best service, music and atmosphere of the area and Urabá Turbo.
+        \nXtasis Discotek, Your party without limits.
+        \nTown de Turbo.
+        \nCll 104 # 16 - 18
+        \nRosa Zone Turbo
+        \nTel: 8277558</string>
+    <string name="bar1text">Km 1 Via Carepa - Chigorodó
+                            \nTelephone(s): (57) (4) 8237856</string>
+    <string name="demotit">Demography</string>
+    <string name="demotext">Total Population: 135.967 hab. (2009)3
+    \nUrban Population: 53.461
+    \nRural population: 82.506
+    \nLiteracy: 81.0% (2005)4
+    </string>
+    <string name="demo1text">Urban zone: 87.2%\nRural zone: 77.0%</string>
+    <string name="demo2text">Ethnic groups\nAccording to figures provided by DANE 2005 census, the ethnic composition of the municipality is\n</string>
+    <string name="demo3text">Afro people(77%)</string>
+    <string name="demo4text">Mestizos y white people (21%)</string>
+    <string name="demo5text">Indigenous (2%)</string>
+    <string name="tur1tit">National Park Los Katíos</string>
+    <string name="tur1text">Is a binational park with Darien National Park in Panama, was declared a World Heritage Site by UNESCO, it is part of the named Darien Gap. It is rich in flora and fauna, found in various animal species such as manatees, tapirs, tigers, otters, some of them in danger of extinction. They are also a variety of birds and fish.
+
+    The Park offers lodging, meals and guides. You can visit it: The Jumping Filupo, Fendal and La Tigra, The Marshes Cacarica and Tumaradó.</string>
+    <string name="tur2tit">Colombia bay</string>
+    <string name="tur2text">Natural sanctuary for birds migration from South and North America, natural oyster.</string>
+    <string name="tur3tit">Bocas del Atrato township</string>
+    <string name="tur3text">Site for those who like the typical dishes of seafood and river prepared by fishermen who live there.</string>
+
+</resources>
