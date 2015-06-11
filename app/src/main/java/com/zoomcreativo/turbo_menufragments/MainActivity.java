@@ -1,11 +1,9 @@
 package com.zoomcreativo.turbo_menufragments;
 
-import android.app.Activity;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
-import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -14,11 +12,14 @@ import android.widget.Button;
 
 public class MainActivity extends ActionBarActivity {
     Button acerca;
+    Mapas fragmentm;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         acerca = (Button) findViewById(R.id.acercab);
+        fragmentm = new Mapas();
     }
 
 
@@ -38,6 +39,7 @@ public class MainActivity extends ActionBarActivity {
 
         FragmentManager fragmentManager = getFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.mhot) {
@@ -60,6 +62,12 @@ public class MainActivity extends ActionBarActivity {
             Acercade fragment = new Acercade();
             fragment.show(fragmentManager,"MyDialog");
         }
+
+        if ((id == R.id.mmapas) && !fragmentm.isVisible()) {
+            fragmentTransaction.replace(android.R.id.content,fragmentm,"MY_FRAGMENT").commit();
+
+        }
+
 
         return super.onOptionsItemSelected(item);
     }

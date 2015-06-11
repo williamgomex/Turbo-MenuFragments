@@ -11,4 +11,6 @@
         android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/macerca" android:title="@string/acercade"
         android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mmapas" android:title="@string/mmapas"
+        android:orderInCategory="100" app:showAsAction="never" />
 </menu>
